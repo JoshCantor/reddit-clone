@@ -1,0 +1,22 @@
+{
+  "name": "reddit-clone",
+  "version": "1.0.0",
+  "description": "tyler and josh's reddit clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshCantor/reddit-clone.git"
+  },
+  "author": "tyler and josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshCantor/reddit-clone/issues"
+  },
+  "homepage": "https://github.com/JoshCantor/reddit-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
